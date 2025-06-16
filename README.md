@@ -4,7 +4,7 @@ This repository contains a Kubernetes YAML configuration to create a namespace n
 
 ## Files
 
-- `nginx-namespace.yaml`: Defines a Kubernetes Namespace object named `nginx`.
+- `nginx.yml`: Defines a Kubernetes Namespace object named `nginx`.
 
 ## Prerequisites
 
